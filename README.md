@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @IRENGBAM
-- �  Deep Learning is fascinating and I'd like that to be my primary focus.
-- 💞 Looking to work on projects to hone my skills. 
+- 👋 Hi, I’m @Daniel.
+- I'm still learning and hope to keep doing so, currently focusing on increasing my Data Science proficiency.
+- �  Deep Learning is fascinating and I'd like that to be my primary focus. I still have a long way to go.
+- 💞 Looking to work on projects under guidance to hone my skills. 
 - 📧 irengbamdaniel@gmail.com
 
 <!---
